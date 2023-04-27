@@ -1,0 +1,7 @@
+C:\Users\ABF26\source\repos\TareaTecnologias\ServiciosConvertidor\bin\Debug\ServiciosConvertidor.dll.config
+C:\Users\ABF26\source\repos\TareaTecnologias\ServiciosConvertidor\bin\Debug\ServiciosConvertidor.dll
+C:\Users\ABF26\source\repos\TareaTecnologias\ServiciosConvertidor\bin\Debug\ServiciosConvertidor.pdb
+C:\Users\ABF26\source\repos\TareaTecnologias\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.csproj.AssemblyReference.cache
+C:\Users\ABF26\source\repos\TareaTecnologias\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.csproj.CoreCompileInputs.cache
+C:\Users\ABF26\source\repos\TareaTecnologias\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.dll
+C:\Users\ABF26\source\repos\TareaTecnologias\ServiciosConvertidor\obj\Debug\ServiciosConvertidor.pdb
